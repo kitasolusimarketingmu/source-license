@@ -1,5 +1,5 @@
 {
-  "situs-list": {
+  "situs_list": {
     "localhost": {
       "status": true,
       "start_date": "2022-10-01",
