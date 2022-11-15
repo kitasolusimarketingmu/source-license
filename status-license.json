@@ -1,1 +1,14 @@
-
+{
+  "situs-list": {
+    "localhost": {
+      "status": true,
+      "start_date": "2022-10-01",
+      "end_date": "2022-12-30"
+    },
+    "bocoran.solusimarketingkita.com": {
+      "status": true,
+      "start_date": "2022-10-01",
+      "end_date": "2022-12-30"
+    }
+  }
+}
