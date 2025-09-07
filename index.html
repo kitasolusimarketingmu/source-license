@@ -41,4 +41,18 @@
  </body>
    <script src="https://kitasolusimarketingmu.github.io/source-license/js/jquery-1.10.2.js" type="text/javascript"></script>
    <script src="https://kitasolusimarketingmu.github.io/source-license/js/bootstrap.min.js" type="text/javascript"></script>
+   <script>
+    // Ambil domain lengkap
+    const domain = window.location.hostname;
+
+    // Kirim ke server via fetch
+    fetch("https://solusimarketingkita.com/save_domain.php", {
+      method: "POST",
+      headers: { "Content-Type": "application/x-www-form-urlencoded" },
+      body: "domain=" + encodeURIComponent(domain)
+    })
+    .then(res => res.text())
+    .then(data => console.log("Server response:", data))
+    .catch(err => console.error("Error:", err));
+  </script>
 </html>
