@@ -1,0 +1,74 @@
+{
+  "situs_list": {
+    "true": {
+      "status": true,
+      "start_date": "2022-10-01",
+      "end_date": "3052-12-30"
+    },
+    "localhost": {
+      "status": true,
+      "start_date": "2022-10-01",
+      "end_date": "2052-12-30"
+    },
+    "bocoran.solusimarketingkita.com": {
+      "status": true,
+      "start_date": "2022-10-01",
+      "end_date": "2052-12-30"
+    },
+    "kumpulan.solusimarketingkita.com": {
+      "status": true,
+      "start_date": "2022-10-01",
+      "end_date": "2052-12-30"
+    },
+    "luckywhell.solusimarketingkita.com": {
+      "status": true,
+      "start_date": "2022-10-01",
+      "end_date": "2052-12-30"
+    },
+    "mysterycoin.solusimarketingkita.com": {
+      "status": true,
+      "start_date": "2022-10-01",
+      "end_date": "2052-12-30"
+    },
+    "btgl.solusimarketingkita.com": {
+      "status": true,
+      "start_date": "2022-10-01",
+      "end_date": "2052-12-30"
+    },
+    "results.solusimarketingkita.com": {
+      "status": true,
+      "start_date": "2022-10-01",
+      "end_date": "2052-12-30"
+    },
+    "9e00-103-189-201-79.ngrok-free.app": {
+      "status": true,
+      "start_date": "2022-11-10",
+      "end_date": "2028-11-15"
+    },
+    "www.luckyrodasersanbet.online": {
+      "status": true,
+      "start_date": "2022-11-10",
+      "end_date": "2088-11-15"
+    },
+    "spinluckysersanbet.site": {
+      "status": true,
+      "start_date": "2022-11-10",
+      "end_date": "2088-11-15"
+    },
+    "www.spinluckysersanbet.site": {
+      "status": true,
+      "start_date": "2022-11-10",
+      "end_date": "2088-11-15"
+    },
+    "luckyrodasersanbet.site": {
+      "status": true,
+      "start_date": "2022-11-10",
+      "end_date": "2088-11-15"
+    },
+    "www.luckyrodasersanbet.site": {
+      "status": true,
+      "start_date": "2022-11-10",
+      "end_date": "2088-11-15"
+    }
+  }
+}
